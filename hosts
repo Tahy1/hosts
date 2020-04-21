@@ -8,13 +8,15 @@
 127.0.0.1 msg.vip.xunlei.com
 127.0.0.1 api-web-game-ssl.xunlei.com
 127.0.0.1 images.client.vip.xunlei.com
+127.0.0.1 static-xl9-ssl.xunlei.com
+127.0.0.1 img2.user.kanimg.com
 # new
+127.0.0.1 team.speed.cdn.vip.xunlei.com
 127.0.0.1 xmlconf.rcv.sandai.net
 127.0.0.1 download.code.lixian.vip.xunlei.com
 127.0.0.1 plugin.xl7.xunlei.com
 127.0.0.1 act.vip.xunlei.com
 127.0.0.1 upgrade.xl9.xunlei.com
-127.0.0.1 team.speed.cdn.vip.xunlei.com
 127.0.0.1 dconf.xcloud.sandai.net
 127.0.0.1 hubciddata.sandai.net
 127.0.0.1 api-shoulei-ssl.xunlei.com
